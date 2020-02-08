@@ -1,0 +1,1366 @@
+﻿Log file open, 02/07/20 17:46:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Robomaster
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.439075
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin SocketIOClient
+LogPluginManager: Mounting plugin TensorFlow
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Engine.ini]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Engine.ini]
+[2020.02.07-23.46.18:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Engine.ini]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Engine.ini]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.07-23.46.18:175][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.07-23.46.18:176][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.07-23.46.18:176][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.07-23.46.18:176][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.07-23.46.18:176][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.07-23.46.18:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Engine.ini]
+[2020.02.07-23.46.18:176][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Engine.ini]
+[2020.02.07-23.46.18:180][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:180][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.07-23.46.18:180][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.07-23.46.18:180][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:180][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.07-23.46.18:180][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:180][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.07-23.46.18:180][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.07-23.46.18:180][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.07-23.46.18:180][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.07-23.46.18:181][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.07-23.46.18:182][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.07-23.46.18:182][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.07-23.46.18:185][  0]LogHAL: Display: Platform has ~ 16 GB [16993755136 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.07-23.46.18:185][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.07-23.46.18:186][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.07-23.46.18:186][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.02.07-23.46.18:187][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.07-23.46.18:187][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.07-23.46.18:187][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.07-23.46.18:187][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.07-23.46.18:187][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.07-23.46.18:187][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projects/Repos/Robomaster/UE4/Saved/Config/Windows/Engine.ini]
+[2020.02.07-23.46.18:188][  0]LogInit: Computer: AERO
+[2020.02.07-23.46.18:188][  0]LogInit: User: thegr
+[2020.02.07-23.46.18:188][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.07-23.46.18:188][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.07-23.46.18:188][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.02.07-23.46.18:188][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.07-23.46.18:189][  0]LogMemory: Process Physical Memory: 101.66 MB used, 101.67 MB peak
+[2020.02.07-23.46.18:189][  0]LogMemory: Process Virtual Memory: 101.81 MB used, 101.81 MB peak
+[2020.02.07-23.46.18:189][  0]LogMemory: Physical Memory: 6005.98 MB used,  10200.53 MB free, 16206.51 MB total
+[2020.02.07-23.46.18:189][  0]LogMemory: Virtual Memory: 4686.68 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2020.02.07-23.46.18:427][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.07-23.46.18:529][  0]LogInit: Using OS detected language (en-US).
+[2020.02.07-23.46.18:529][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.07-23.46.18:530][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.07-23.46.18:739][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.07-23.46.18:776][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.07-23.46.18:776][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.07-23.46.19:009][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.07-23.46.19:009][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.07-23.46.19:154][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2020.02.07-23.46.19:154][  0]LogD3D11RHI:       5991/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.07-23.46.19:184][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.02.07-23.46.19:184][  0]LogD3D11RHI:       128/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.07-23.46.19:188][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.07-23.46.19:188][  0]LogD3D11RHI:       0/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.07-23.46.19:188][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.07-23.46.19:225][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.07-23.46.19:225][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.07-23.46.19:225][  0]LogWindows: EnumDisplayDevices:
+[2020.02.07-23.46.19:225][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.02.07-23.46.19:225][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.07-23.46.19:225][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.07-23.46.19:226][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.02.07-23.46.19:226][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.02.07-23.46.19:226][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.02.07-23.46.19:226][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.02.07-23.46.19:227][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.07-23.46.19:227][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2020.02.07-23.46.19:227][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.02.07-23.46.19:227][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.02.07-23.46.19:227][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2020.02.07-23.46.19:276][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.07-23.46.19:313][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.07-23.46.19:587][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.07-23.46.19:595][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.07-23.46.19:603][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.07-23.46.19:611][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.07-23.46.19:620][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.07-23.46.19:630][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.07-23.46.19:638][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.07-23.46.19:646][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.07-23.46.19:651][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.07-23.46.19:682][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.07-23.46.19:685][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.07-23.46.19:704][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.07-23.46.19:704][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.07-23.46.19:716][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.07-23.46.19:716][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.07-23.46.19:722][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.07-23.46.19:728][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.07-23.46.19:735][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.07-23.46.19:743][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.07-23.46.19:763][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.07-23.46.19:763][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.07-23.46.19:763][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.07-23.46.19:774][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.07-23.46.19:862][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (D:/Projects/Repos/Robomaster/UE4/Intermediate/Shaders/WorkingDirectory/18908/).
+[2020.02.07-23.46.19:862][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/thegr/AppData/Local/Temp/UnrealShaderWorkingDir/107729E245CBB5FD4311AEBA413B0ABF/'.
+[2020.02.07-23.46.19:865][  0]LogXGEController: Cleaning working directory: C:/Users/thegr/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.07-23.46.19:865][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.07-23.46.19:865][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.07-23.46.19:865][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.07-23.46.20:471][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.07-23.46.20:542][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/thegr/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.07-23.46.20:542][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/thegr/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.02.07-23.46.20:542][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Projects/Repos/Robomaster/UE4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.07-23.46.20:542][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.07-23.46.20:542][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Projects/Repos/Robomaster/UE4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.07-23.46.20:542][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.07-23.46.20:553][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.07-23.46.20:555][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.02.07-23.46.20:556][  0]LogDerivedDataCache: Using Local data cache path C:/Users/thegr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.07-23.46.20:556][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.07-23.46.20:556][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.07-23.46.20:575][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.07-23.46.20:582][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.07-23.46.20:584][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.07-23.46.20:793][  0]LogAssetRegistry: FAssetRegistry took 0.0046 seconds to start up
+[2020.02.07-23.46.21:098][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.07-23.46.21:302][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.07-23.46.21:302][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.07-23.46.21:302][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.07-23.46.21:302][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.07-23.46.21:302][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.07-23.46.21:323][  0]LogNetVersion: Robomaster 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2307867796)
+[2020.02.07-23.46.21:839][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.070441 seconds
+[2020.02.07-23.46.21:844][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.02.07-23.46.21:844][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.02.07-23.46.21:844][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.07-23.46.24:417][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.07-23.46.24:422][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.07-23.46.24:584][  0]LogPython: Python Scripts search path: D:/Projects/Repos/Robomaster/UE4/Content/Scripts
+[2020.02.07-23.46.24:584][  0]LogPython: Python Scripts search path: D:/Projects/Repos/Robomaster/UE4/Plugins/tensorflow-ue4/Content/Scripts
+[2020.02.07-23.46.24:584][  0]LogPython: Python Scripts search path: D:/Projects/Repos/Robomaster/UE4/Plugins/UnrealEnginePython/Content/Scripts
+[2020.02.07-23.46.24:584][  0]LogPython: Python Scripts search path: D:/Projects/Repos/Robomaster/UE4/Plugins/UnrealEnginePython
+[2020.02.07-23.46.24:585][  0]LogPython: Python VM initialized: 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:54:40) [MSC v.1900 64 bit (AMD64)]
+[2020.02.07-23.46.24:626][  0]LogPython: upystartup::Checking pip location on startup
+[2020.02.07-23.46.24:626][  0]LogPython: 
+
+[2020.02.07-23.46.24:626][  0]LogPython: upystartup::stored loc: D:/Projects/Repos/Robomaster/UE4/Plugins/UnrealEnginePython/Binaries/Win64/Scripts
+[2020.02.07-23.46.24:626][  0]LogPython: 
+
+[2020.02.07-23.46.24:626][  0]LogPython: upystartup::correct loc: D:/Projects/Repos/Robomaster/UE4/Plugins/UnrealEnginePython/Binaries/Win64/Scripts
+[2020.02.07-23.46.24:626][  0]LogPython: 
+
+[2020.02.07-23.46.24:626][  0]LogPython: upystartup::pip location is up to date.
+[2020.02.07-23.46.24:626][  0]LogPython: 
+
+[2020.02.07-23.46.24:626][  0]LogPython: upystartup::system paths normalized.
+[2020.02.07-23.46.24:627][  0]LogPython: 
+
+[2020.02.07-23.46.24:627][  0]LogPython: upystartup::project doesn't use a upymodule.json file.
+[2020.02.07-23.46.24:627][  0]LogPython: 
+
+[2020.02.07-23.46.24:629][  0]LogPython: ue_site Python module not found
+[2020.02.07-23.46.24:686][  0]SourceControl: Source control is disabled
+[2020.02.07-23.46.24:686][  0]SourceControl: Source control is disabled
+[2020.02.07-23.46.24:695][  0]SourceControl: Source control is disabled
+[2020.02.07-23.46.24:699][  0]SourceControl: Source control is disabled
+[2020.02.07-23.46.25:038][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.07-23.46.25:454][  0]LogOcInput: OculusInput pre-init called
+[2020.02.07-23.46.25:466][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.07-23.46.25:466][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.07-23.46.25:485][  0]LogPython: Added TensorFlow Plugin Content/Scripts (D:/Projects/Repos/Robomaster/UE4/Plugins/tensorflow-ue4/Content/Scripts) to sys.path
+[2020.02.07-23.46.25:493][  0]LogPython: upymodule_importer::Resolving upymodule dependencies for tensorflow-ue4
+[2020.02.07-23.46.26:141][  0]LogPython: upymodule_importer::tensorflow-gpu 1.12.0 installed? True
+[2020.02.07-23.46.26:141][  0]LogPython: upymodule_importer::h5py 2.7.0 installed? True
+[2020.02.07-23.46.26:141][  0]LogPython: upymodule_importer::2 tensorflow-ue4 upymodule dependencies resolved (if installation in progress, more async output will stream)
+[2020.02.07-23.46.26:141][  0]LogPython: TensorFlow Plugin upymodule.json parsed
+[2020.02.07-23.46.30:573][  0]LogEngine: Initializing Engine...
+[2020.02.07-23.46.30:574][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.07-23.46.30:577][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.02.07-23.46.30:778][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.07-23.46.30:814][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.07-23.46.30:840][  0]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.07-23.46.30:975][  0]LogInit: FAudioDevice initialized.
+[2020.02.07-23.46.30:976][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.07-23.46.31:051][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/thegr/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.07-23.46.31:057][  0]LogInit: Texture streaming: Enabled
+[2020.02.07-23.46.31:080][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.07-23.46.31:080][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.07-23.46.31:081][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.07-23.46.31:143][  0]LogInit: Transaction tracking system initialized
+[2020.02.07-23.46.31:206][  0]BlueprintLog: New page: Editor Load
+[2020.02.07-23.46.31:351][  0]LocalizationService: Localization service is disabled
+[2020.02.07-23.46.31:659][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Repos/Robomaster/UE4/Content/' took 0.00s
+[2020.02.07-23.46.31:659][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.07-23.46.31:659][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.07-23.46.33:053][  0]SourceControl: Source control is disabled
+[2020.02.07-23.46.33:054][  0]Cmd: MAP LOAD FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.07-23.46.33:054][  0]LightingResults: New page: Lighting Build
+[2020.02.07-23.46.33:060][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.07-23.46.33:061][  0]MapCheck: New page: Map Check
+[2020.02.07-23.46.33:061][  0]LightingResults: New page: Lighting Build
+[2020.02.07-23.46.33:093][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.07-23.46.33:347][  0]LogAIModule: Creating AISystem for world Arena
+[2020.02.07-23.46.33:365][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.07-23.46.33:394][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.07-23.46.33:394][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.07-23.46.33:394][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.255ms to complete.
+[2020.02.07-23.46.33:394][  0]LogFileHelpers: Loading map 'Arena' took 0.341
+[2020.02.07-23.46.33:525][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-23.46.33:532][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-23.46.33:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-23.46.33:543][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.07-23.46.33:577][  0]LogCollectionManager: Loaded 0 collections in 0.001856 seconds
+[2020.02.07-23.46.33:623][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Repos/Robomaster/UE4/Saved/Collections/' took 0.00s
+[2020.02.07-23.46.33:623][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Repos/Robomaster/UE4/Content/Developers/thegr/Collections/' took 0.00s
+[2020.02.07-23.46.33:623][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Repos/Robomaster/UE4/Content/Collections/' took 0.00s
+[2020.02.07-23.46.33:624][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.07-23.46.33:632][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3078 classes and 786 folders.
+[2020.02.07-23.46.33:645][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.07-23.46.33:846][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.07-23.46.33:852][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.02.07-23.46.33:926][  0]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.07-23.46.33:928][  0]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.07-23.46.33:935][  0]LogSlate: Took 0.000974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.07-23.46.33:985][  0]LogRenderer: Reallocating scene render targets to support 1616x980 Format 10 NumSamples 1 (Frame:1).
+[2020.02.07-23.46.34:178][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.07-23.46.34:178][  0]LogLoad: (Engine Initialization) Total time: 18.78 seconds
+[2020.02.07-23.46.34:178][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.07-23.46.34:276][  0]LogAssetRegistry: Asset discovery search completed in 13.4834 seconds
+[2020.02.07-23.46.34:279][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2020.02.07-23.46.34:279][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2020.02.07-23.46.34:281][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.07-23.46.35:551][  4]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.07-23.47.30:782][565]LogRenderer: Reallocating scene render targets to support 1912x1116 Format 10 NumSamples 1 (Frame:445).
+[2020.02.07-23.47.30:813][566]LogRenderer: Reallocating scene render targets to support 2388x1324 Format 10 NumSamples 1 (Frame:447).
+[2020.02.07-23.47.30:856][567]LogRenderer: Reallocating scene render targets to support 2520x1384 Format 10 NumSamples 1 (Frame:449).
+[2020.02.07-23.47.30:935][568]LogRenderer: Reallocating scene render targets to support 2568x1408 Format 10 NumSamples 1 (Frame:452).
+[2020.02.07-23.47.30:936][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-23.47.34:191][759]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={E9E485C2-449B-E272-02A0-5B99B033ACBD}
+[2020.02.07-23.47.34:227][762]LogHttp: Warning: 0000024967DF0A40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.02.07-23.47.34:228][762]LogHttp: Warning: 0000024967DF0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.07-23.47.34:228][762]LogHttp: Warning: 0000024967DF0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.07-23.47.34:228][762]LogHttp: Warning: 0000024967DF0A40: libcurl info message cache 1 (Closing connection 0)
+[2020.02.07-23.47.34:228][762]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.07-23.48.18:094][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.07-23.49.34:263][918]LogHttp: Warning: 0000024967DF1E40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.02.07-23.49.34:263][918]LogHttp: Warning: 0000024967DF1E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.07-23.49.34:263][918]LogHttp: Warning: 0000024967DF1E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.07-23.49.34:263][918]LogHttp: Warning: 0000024967DF1E40: libcurl info message cache 1 (Closing connection 1)
+[2020.02.07-23.49.34:263][918]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.07-23.49.48:371][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.07-23.51.34:853][259]LogHttp: Warning: 0000024967DF3C40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.02.07-23.51.34:854][259]LogHttp: Warning: 0000024967DF3C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.07-23.51.34:854][259]LogHttp: Warning: 0000024967DF3C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.07-23.51.34:854][259]LogHttp: Warning: 0000024967DF3C40: libcurl info message cache 1 (Closing connection 2)
+[2020.02.07-23.51.35:186][260]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.07-23.53.35:616][618]LogHttp: Warning: 0000024967DF3C40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.02.07-23.53.35:616][618]LogHttp: Warning: 0000024967DF3C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.07-23.53.35:616][618]LogHttp: Warning: 0000024967DF3C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.07-23.53.35:616][618]LogHttp: Warning: 0000024967DF3C40: libcurl info message cache 1 (Closing connection 3)
+[2020.02.07-23.53.35:616][618]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.08-00.41.47:593][704]LogHttp: Warning: 0000024967DD34C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.02.08-00.41.47:593][704]LogHttp: Warning: 0000024967DD34C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.08-00.41.47:593][704]LogHttp: Warning: 0000024967DD34C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x24916b37ee0 [can pipeline])
+[2020.02.08-00.41.47:593][704]LogHttp: Warning: 0000024967DD34C0: libcurl info message cache 1 (Re-using existing connection! (#20) with host datarouter.ol.epicgames.com)
+[2020.02.08-00.41.47:593][704]LogHttp: Warning: 0000024967DD34C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.201.200.142) port 443 (#20))
+[2020.02.08-00.41.47:593][704]LogHttp: Warning: 0000024967DD34C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.08-00.41.47:593][704]LogHttp: Warning: 0000024967DD34C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.08-00.41.47:593][704]LogHttp: Warning: 0000024967DD34C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.08-00.41.47:593][704]LogHttp: Warning: 0000024967DD34C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.08-00.41.47:593][704]LogHttp: Warning: 0000024967DD34C0: libcurl info message cache 7 (Closing connection 20)
+[2020.02.08-00.41.47:593][704]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.08-00.42.40:382][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-00.43.51:299][ 22]LogEditorViewport: Clicking on Actor (LMB): BP_Base_C (BP_Base2)
+[2020.02.08-00.43.54:508][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-00.43.54:615][252]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Base.BP_Base
+[2020.02.08-00.43.54:987][252]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.02.08-00.43.55:804][252]LogSlate: Took 0.004923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.08-00.44.08:256][329]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2020.02.08-00.44.08:256][329]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2020.02.08-00.44.24:396][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-00.44.37:173][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-00.44.48:927][711]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-00.44.52:508][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-00.45.05:081][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-00.47.20:761][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-00.50.56:985][654]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.02.08-00.51.18:830][720]LogHttp: Warning: 00000249A5836AC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.02.08-00.51.18:830][720]LogHttp: Warning: 00000249A5836AC0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.02.08-00.51.18:830][720]LogHttp: Warning: 00000249A5836AC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x24916b37ee0 [can pipeline])
+[2020.02.08-00.51.18:830][720]LogHttp: Warning: 00000249A5836AC0: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2020.02.08-00.51.18:830][720]LogHttp: Warning: 00000249A5836AC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.89.43.5) port 443 (#23))
+[2020.02.08-00.51.18:830][720]LogHttp: Warning: 00000249A5836AC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.02.08-00.51.18:830][720]LogHttp: Warning: 00000249A5836AC0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.02.08-00.51.18:830][720]LogHttp: Warning: 00000249A5836AC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.02.08-00.51.18:830][720]LogHttp: Warning: 00000249A5836AC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.02.08-00.51.18:830][720]LogHttp: Warning: 00000249A5836AC0: libcurl info message cache 7 (Closing connection 23)
+[2020.02.08-00.51.18:830][720]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.08-00.51.21:663][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.02.08-00.51.21:665][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/Arena_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.08-00.51.21:875][727]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena_Auto131FD26D142CED40BE5D511B36EEED349.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/Arena_Auto1.umap'
+[2020.02.08-00.51.21:881][727]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Arena' took 0.260
+[2020.02.08-00.51.21:882][727]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.260
+[2020.02.08-00.51.21:883][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Base] ([1] browsable assets)...
+[2020.02.08-00.51.21:925][727]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Base.BP_Base]
+[2020.02.08-00.51.21:925][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Base]
+[2020.02.08-00.51.21:925][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Base" FILE="D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/BP_Base_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.02.08-00.51.21:949][727]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/BP_Base_Auto19D88CCED42CC7DFEB54F5C82641C7092.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/BP_Base_Auto1.uasset'
+[2020.02.08-00.51.21:950][727]LogFileHelpers: Auto-saving content packages took 0.067
+[2020.02.08-01.02.33:180][727]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-01.02.36:125][862]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-01.04.00:428][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-01.04.01:945][975]Cmd: TRANSACTION UNDO
+[2020.02.08-01.04.01:945][975]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.08-01.04.02:339][992]Cmd: TRANSACTION UNDO
+[2020.02.08-01.04.02:339][992]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.08-01.04.02:780][ 16]Cmd: TRANSACTION UNDO
+[2020.02.08-01.04.02:780][ 16]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.08-01.04.29:595][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.02.08-01.04.29:595][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/Arena_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.08-01.04.29:790][600]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena_Auto2C96112C944CB5F72D93A86971FE4C150.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/Arena_Auto2.umap'
+[2020.02.08-01.04.29:792][600]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Arena' took 0.231
+[2020.02.08-01.04.29:792][600]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.231
+[2020.02.08-01.06.08:241][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-01.08.14:540][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-01.09.51:475][165]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-01.59.47:801][442]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.08-01.59.51:989][444]LogHttp: Warning: 0000024965CB1440: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.02.08-01.59.51:989][444]LogHttp: Warning: 0000024965CB1440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.02.08-01.59.51:989][444]LogHttp: Warning: 0000024965CB1440: libcurl info message cache 0 (Connection 27 seems to be dead!)
+[2020.02.08-01.59.51:991][444]LogHttp: Warning: 0000024965CB1440: libcurl info message cache 1 (Closing connection 27)
+[2020.02.08-01.59.51:991][444]LogHttp: Warning: 0000024965CB1440: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.02.08-01.59.51:991][444]LogHttp: Warning: 0000024965CB1440: libcurl info message cache 3 (Closing connection 28)
+[2020.02.08-01.59.51:991][444]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB4E3BE2A-4DF7-33AC-C7B2-4D811D52F48E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e790884141b5811706c83092b027ae03%7C0780d1ab8bed430b9cedc84c7e556a13%7Ce4f183c2-90e5-4011-936c-7047dcd58d34&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.02.08-02.00.02:082][469]LogUObjectHash: Compacting FUObjectHashTables data took  24.05ms
+[2020.02.08-02.00.02:101][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/Arena_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.08-02.00.03:735][469]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena_Auto34FD1CA4640BA93D542AAC88150E216C7.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/Arena_Auto3.umap'
+[2020.02.08-02.00.03:774][469]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Arena' took 1.951
+[2020.02.08-02.00.03:774][469]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.951
+[2020.02.08-02.00.03:842][469]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Base] ([1] browsable assets)...
+[2020.02.08-02.00.03:973][469]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Base.BP_Base]
+[2020.02.08-02.00.03:973][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Base]
+[2020.02.08-02.00.03:973][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Base" FILE="D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/BP_Base_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.02.08-02.00.04:120][469]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/BP_Base_Auto3D7D1D0574A81B3499DCCD4B5B58C349B.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/BP_Base_Auto3.uasset'
+[2020.02.08-02.00.04:123][469]LogFileHelpers: Auto-saving content packages took 0.283
+[2020.02.08-02.01.00:405][333]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-02.01.05:992][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-02.31.53:661][170]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-02.31.55:755][280]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-02.33.59:762][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-03.22.01:573][240]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-03.22.03:204][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-03.24.23:807][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ArenaMain_Pinwheel_Red2)
+[2020.02.08-03.24.24:679][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ArenaMain_polySurface82)
+[2020.02.08-03.24.41:993][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-03.24.42:026][765]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.08-03.24.42:043][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Arena.Arena_C' with ClassGeneratedBy '/Game/Arena.Arena:PersistentLevel.Arena'
+[2020.02.08-03.24.42:045][765]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.08-03.24.42:051][765]LogPlayLevel: [PlayLevel] Compiling BP_Base before play...
+[2020.02.08-03.24.42:255][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.08-03.24.42:255][765]LogPlayLevel: PlayLevel: Blueprint regeneration took 209 ms (1 blueprints)
+[2020.02.08-03.24.42:262][765]PIE: New page: PIE session: Arena (Feb 7, 2020, 3:24:42 PM)
+[2020.02.08-03.24.42:270][765]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.08-03.24.42:273][765]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arena
+[2020.02.08-03.24.42:281][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008041s)
+[2020.02.08-03.24.42:285][765]LogAIModule: Creating AISystem for world Arena
+[2020.02.08-03.24.42:288][765]LogPlayLevel: PIE: World Init took: (0.006394s)
+[2020.02.08-03.24.42:288][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arena.Arena to /Game/UEDPIE_0_Arena.Arena (0.014950s)
+[2020.02.08-03.24.42:323][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.02.08-03.24.42:339][765]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.02.08-03.24.42:405][765]LogInit: FAudioDevice initialized.
+[2020.02.08-03.24.42:421][765]LogLoad: Game class is 'GameModeBase'
+[2020.02.08-03.24.42:430][765]LogWorld: Bringing World /Game/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2020.02.07-21.24.42
+[2020.02.08-03.24.42:432][765]LogWorld: Bringing up level for play took: 0.003300
+[2020.02.08-03.24.42:433][765]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.02.08-03.24.42:461][765]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.08-03.24.42:465][765]PIE: Play in editor start time for /Game/UEDPIE_0_Arena 0.055
+[2020.02.08-03.24.42:465][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Arena.Arena_C' with ClassGeneratedBy '/Game/Arena.Arena:PersistentLevel.Arena'
+[2020.02.08-03.24.43:469][808]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2020.02.08-03.24.43:469][808]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2020.02.08-03.24.51:296][270]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Arena.Arena_C' with ClassGeneratedBy '/Game/Arena.Arena:PersistentLevel.Arena'
+[2020.02.08-03.24.51:297][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.08-03.24.51:298][270]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arena
+[2020.02.08-03.24.51:299][270]LogWorld: UWorld::CleanupWorld for Arena, bSessionEnded=true, bCleanupResources=true
+[2020.02.08-03.24.51:314][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.08-03.24.51:314][270]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Arena.Arena_C' with ClassGeneratedBy '/Game/Arena.Arena:PersistentLevel.Arena'
+[2020.02.08-03.24.51:359][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.08-03.24.51:382][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.02.08-03.24.51:408][271]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.08-03.25.24:628][246]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-03.25.24:689][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.02.08-03.25.24:691][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/Arena_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.08-03.25.24:909][246]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena_Auto480602EDE4A824EE6C4C856846F217B59.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/Arena_Auto4.umap'
+[2020.02.08-03.25.24:915][246]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Arena' took 0.265
+[2020.02.08-03.25.24:915][246]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.265
+[2020.02.08-03.30.39:035][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-03.31.01:881][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ArenaSide_Road_Bottom)
+[2020.02.08-03.31.06:485][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-03.31.06:681][ 75]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/MI_Ground_Light.MI_Ground_Light
+[2020.02.08-03.31.17:949][551]LogSlate: Window 'MI_Ground_Light' being destroyed
+[2020.02.08-03.31.17:974][551]LogSlate: Window 'MI_Ground_Light' being destroyed
+[2020.02.08-03.31.18:024][551]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2020.02.08-03.31.18:042][551]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-03.31.18:077][551]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.08-03.31.18:689][551]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.02.08-03.31.18:689][551]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.08-03.31.18:696][551]TextureStreamingBuild: Display: Compiling optional shaders took 0.639 seconds.
+[2020.02.08-03.31.18:739][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.02.08-03.31.18:766][551]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.08-03.31.23:733][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.02.08-03.31.23:750][774]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-03.31.23:765][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-03.31.23:806][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.02.08-03.31.24:020][774]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena9C5F6C0B4074D824FA0FDCA374B0FA18.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-03.31.24:051][774]LogFileHelpers: Saving map 'Arena' took 0.287
+[2020.02.08-03.31.24:068][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Base" FILE="D:/Projects/Repos/Robomaster/UE4/Content/BP_Base.uasset" SILENT=true
+[2020.02.08-03.31.24:095][774]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/BP_BaseF54268694ED523751C9EC592642B9D22.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/BP_Base.uasset'
+[2020.02.08-03.31.24:114][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_Ground_Light" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Materials/MI_Ground_Light.uasset" SILENT=true
+[2020.02.08-03.31.24:137][774]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/MI_Ground_Light871175F54063B543F1FDC6B0718EBCC6.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Materials/MI_Ground_Light.uasset'
+[2020.02.08-03.31.25:439][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.00.48:864][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-04.01.02:099][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.01.16:564][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.01.23:070][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.01.58:112][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.02.04:899][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.02.11:238][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.02.15:038][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.08-04.02.15:053][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-04.02.15:064][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.02.15:102][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.08-04.02.15:323][ 26]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena7D34E428440358A117852D99FAE94296.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.02.15:351][ 26]LogFileHelpers: Saving map 'Arena' took 0.287
+[2020.02.08-04.02.15:364][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Base" FILE="D:/Projects/Repos/Robomaster/UE4/Content/BP_Base.uasset" SILENT=true
+[2020.02.08-04.02.15:393][ 26]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/BP_BaseF977F2C1456F397F1CDE18A5997FC9FF.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/BP_Base.uasset'
+[2020.02.08-04.02.15:865][ 53]BlueprintLog: New page: Compile BP_Base
+[2020.02.08-04.02.16:058][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.02.08-04.02.16:469][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Base" FILE="D:/Projects/Repos/Robomaster/UE4/Content/BP_Base.uasset" SILENT=true
+[2020.02.08-04.02.16:490][ 73]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/BP_BaseAD4C86DE4DBD41DAD53AF09A4A845E5A.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/BP_Base.uasset'
+[2020.02.08-04.02.19:721][261]LogSlate: Took 0.007736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.08-04.02.20:071][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.02.25:069][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.02.33:834][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.08-04.02.33:862][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.02.33:895][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.02.08-04.02.34:091][  9]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaF84A1AB744130A25523DBA9FB4F07EBB.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.02.34:113][  9]LogFileHelpers: Saving map 'Arena' took 0.252
+[2020.02.08-04.02.37:815][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.11.45:717][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.11.52:716][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.02.08-04.11.55:488][236]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.11.55:512][236]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-04.11.55:560][236]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-04.11.55:600][236]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-04.11.55:652][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.02.08-04.11.55:698][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.02.08-04.11.55:736][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.08-04.12.09:943][438]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Projects\Repos\Robomaster\UE4\Import\ArenaSide.fbx)
+[2020.02.08-04.12.09:975][438]LogFbx: Loading FBX Scene from D:\Projects\Repos\Robomaster\UE4\Import\ArenaSide.fbx
+[2020.02.08-04.12.09:992][438]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.08-04.12.10:014][438]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.08-04.12.31:385][438]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.08-04.12.43:350][822]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Projects\Repos\Robomaster\UE4\Import\ArenaSide.fbx)
+[2020.02.08-04.12.43:368][822]LogFbx: Loading FBX Scene from D:\Projects\Repos\Robomaster\UE4\Import\ArenaSide.fbx
+[2020.02.08-04.12.43:381][822]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.08-04.12.50:716][822]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.08-04.12.51:306][822]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.02.08-04.12.51:360][822]LogFbx: Display: Triangulating static mesh Rail1
+[2020.02.08-04.12.51:368][822]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2020.02.08-04.12.51:368][822]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2020.02.08-04.12.51:368][822]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.02.08-04.12.51:368][822]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2020.02.08-04.12.51:368][822]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2020.02.08-04.12.51:368][822]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.02.08-04.12.51:368][822]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.02.08-04.12.51:368][822]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.02.08-04.12.51:373][822]LogStaticMesh: Building static mesh ArenaSide_Rail1...
+[2020.02.08-04.12.51:385][822]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Side/New/ArenaSide_Rail1.ArenaSide_Rail1
+[2020.02.08-04.12.51:408][822]LogFbx: Display: Triangulating static mesh Rail_Base
+[2020.02.08-04.12.51:426][822]LogStaticMesh: Building static mesh ArenaSide_Rail_Base...
+[2020.02.08-04.12.51:428][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Rail_Base.ArenaSide_Rail_Base
+[2020.02.08-04.12.51:442][822]LogFbx: Display: Triangulating static mesh Repair_Station1
+[2020.02.08-04.12.51:506][822]LogStaticMesh: Building static mesh ArenaSide_Repair_Station1...
+[2020.02.08-04.12.51:519][822]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Side/New/ArenaSide_Repair_Station1.ArenaSide_Repair_Station1
+[2020.02.08-04.12.51:535][822]LogFbx: Display: Triangulating static mesh Repair_Area
+[2020.02.08-04.12.51:545][822]LogStaticMesh: Building static mesh ArenaSide_Repair_Area...
+[2020.02.08-04.12.51:547][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Repair_Area.ArenaSide_Repair_Area
+[2020.02.08-04.12.51:559][822]LogFbx: Display: Triangulating static mesh Bumper1
+[2020.02.08-04.12.51:561][822]LogStaticMesh: Building static mesh ArenaSide_Bumper1...
+[2020.02.08-04.12.51:562][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Bumper1.ArenaSide_Bumper1
+[2020.02.08-04.12.51:573][822]LogFbx: Display: Triangulating static mesh Bumper2
+[2020.02.08-04.12.51:579][822]LogStaticMesh: Building static mesh ArenaSide_Bumper2...
+[2020.02.08-04.12.51:579][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Bumper2.ArenaSide_Bumper2
+[2020.02.08-04.12.51:594][822]LogFbx: Display: Triangulating static mesh Bumper_3
+[2020.02.08-04.12.51:597][822]LogStaticMesh: Building static mesh ArenaSide_Bumper_3...
+[2020.02.08-04.12.51:597][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Bumper_3.ArenaSide_Bumper_3
+[2020.02.08-04.12.51:610][822]LogFbx: Display: Triangulating static mesh Road_Center
+[2020.02.08-04.12.51:613][822]LogStaticMesh: Building static mesh ArenaSide_Road_Center...
+[2020.02.08-04.12.51:613][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Road_Center.ArenaSide_Road_Center
+[2020.02.08-04.12.51:624][822]LogFbx: Display: Triangulating static mesh Road_Center_Wall1
+[2020.02.08-04.12.51:628][822]LogStaticMesh: Building static mesh ArenaSide_Road_Center_Wall1...
+[2020.02.08-04.12.51:628][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall1.ArenaSide_Road_Center_Wall1
+[2020.02.08-04.12.51:641][822]LogFbx: Display: Triangulating static mesh Road_Center_Wall2
+[2020.02.08-04.12.51:646][822]LogStaticMesh: Building static mesh ArenaSide_Road_Center_Wall2...
+[2020.02.08-04.12.51:648][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall2.ArenaSide_Road_Center_Wall2
+[2020.02.08-04.12.51:663][822]LogFbx: Display: Triangulating static mesh Resource_Station_2
+[2020.02.08-04.12.51:676][822]LogStaticMesh: Building static mesh ArenaSide_Resource_Station_2...
+[2020.02.08-04.12.51:678][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Resource_Station_2.ArenaSide_Resource_Station_2
+[2020.02.08-04.12.51:694][822]LogFbx: Display: Triangulating static mesh RoadSlice
+[2020.02.08-04.12.51:696][822]LogStaticMesh: Building static mesh ArenaSide_RoadSlice...
+[2020.02.08-04.12.51:696][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_RoadSlice.ArenaSide_RoadSlice
+[2020.02.08-04.12.51:710][822]LogFbx: Display: Triangulating static mesh Road_Top_Ramp
+[2020.02.08-04.12.51:712][822]LogStaticMesh: Building static mesh ArenaSide_Road_Top_Ramp...
+[2020.02.08-04.12.51:712][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Ramp.ArenaSide_Road_Top_Ramp
+[2020.02.08-04.12.51:728][822]LogFbx: Display: Triangulating static mesh Road_Top1
+[2020.02.08-04.12.51:732][822]LogStaticMesh: Building static mesh ArenaSide_Road_Top1...
+[2020.02.08-04.12.51:733][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Road_Top1.ArenaSide_Road_Top1
+[2020.02.08-04.12.51:744][822]LogFbx: Display: Triangulating static mesh Road_Top2
+[2020.02.08-04.12.51:748][822]LogStaticMesh: Building static mesh ArenaSide_Road_Top2...
+[2020.02.08-04.12.51:748][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Road_Top2.ArenaSide_Road_Top2
+[2020.02.08-04.12.51:760][822]LogFbx: Display: Triangulating static mesh Road_Top_Bounds
+[2020.02.08-04.12.51:763][822]LogStaticMesh: Building static mesh ArenaSide_Road_Top_Bounds...
+[2020.02.08-04.12.51:764][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Bounds.ArenaSide_Road_Top_Bounds
+[2020.02.08-04.12.51:775][822]LogFbx: Display: Triangulating static mesh Road_Top_Edge
+[2020.02.08-04.12.51:779][822]LogStaticMesh: Building static mesh ArenaSide_Road_Top_Edge...
+[2020.02.08-04.12.51:780][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Edge.ArenaSide_Road_Top_Edge
+[2020.02.08-04.12.51:792][822]LogFbx: Display: Triangulating static mesh Helipad
+[2020.02.08-04.12.51:823][822]LogStaticMesh: Building static mesh ArenaSide_Helipad...
+[2020.02.08-04.12.51:828][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Helipad.ArenaSide_Helipad
+[2020.02.08-04.12.51:829][822]LogStaticMesh: Warning: ArenaSide_Helipad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.08-04.12.51:829][822]LogStaticMesh: Warning: ArenaSide_Helipad has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.02.08-04.12.51:829][822]LogStaticMesh: Warning: ArenaSide_Helipad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.08-04.12.51:840][822]LogFbx: Display: Triangulating static mesh Outpost_Platform
+[2020.02.08-04.12.51:842][822]LogStaticMesh: Building static mesh ArenaSide_Outpost_Platform...
+[2020.02.08-04.12.51:843][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Outpost_Platform.ArenaSide_Outpost_Platform
+[2020.02.08-04.12.51:851][822]LogFbx: Display: Triangulating static mesh Road_Bottom
+[2020.02.08-04.12.51:859][822]LogStaticMesh: Building static mesh ArenaSide_Road_Bottom...
+[2020.02.08-04.12.51:861][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom.ArenaSide_Road_Bottom
+[2020.02.08-04.12.51:876][822]LogFbx: Display: Triangulating static mesh Road_Bottom_Wall
+[2020.02.08-04.12.51:881][822]LogStaticMesh: Building static mesh ArenaSide_Road_Bottom_Wall...
+[2020.02.08-04.12.51:882][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall.ArenaSide_Road_Bottom_Wall
+[2020.02.08-04.12.51:899][822]LogFbx: Display: Triangulating static mesh Road_Bottom_Wall2
+[2020.02.08-04.12.51:906][822]LogStaticMesh: Building static mesh ArenaSide_Road_Bottom_Wall2...
+[2020.02.08-04.12.51:907][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall2.ArenaSide_Road_Bottom_Wall2
+[2020.02.08-04.12.51:918][822]LogFbx: Display: Triangulating static mesh Road_Bottom_Bounds
+[2020.02.08-04.12.51:922][822]LogStaticMesh: Building static mesh ArenaSide_Road_Bottom_Bounds...
+[2020.02.08-04.12.51:922][822]LogStaticMesh: Built static mesh [0.00s] /Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Bounds.ArenaSide_Road_Bottom_Bounds
+[2020.02.08-04.12.52:010][822]FBXImport: Warning: ArenaSide_Helipad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.08-04.12.52:010][822]FBXImport: Warning: ArenaSide_Helipad has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.02.08-04.12.52:010][822]FBXImport: Warning: ArenaSide_Helipad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.08-04.12.54:472][867]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2020.02.08-04.12.54:472][867]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2020.02.08-04.13.27:534][377]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.02.08-04.13.27:534][377]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Arena' took 0.076
+[2020.02.08-04.13.27:536][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Bounds] ([1] browsable assets)...
+[2020.02.08-04.13.27:565][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Bounds.ArenaSide_Road_Bottom_Bounds]
+[2020.02.08-04.13.27:565][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Bounds]
+[2020.02.08-04.13.27:580][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Bottom_Bounds_AutD587E4E74491171ECF99C7833E2C8A82.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Bounds_Auto5.uasset'
+[2020.02.08-04.13.27:581][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall2] ([1] browsable assets)...
+[2020.02.08-04.13.27:599][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall2.ArenaSide_Road_Bottom_Wall2]
+[2020.02.08-04.13.27:599][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall2]
+[2020.02.08-04.13.27:613][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Bottom_Wall2_AutoC9A050C047E86649F7758FBC25EDA16F.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall2_Auto5.uasset'
+[2020.02.08-04.13.27:614][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Rail1] ([1] browsable assets)...
+[2020.02.08-04.13.27:632][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Rail1.ArenaSide_Rail1]
+[2020.02.08-04.13.27:632][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Rail1]
+[2020.02.08-04.13.27:646][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Rail1_Auto5F55FE8A4412C9B9EB4AB7696493F69E6.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Rail1_Auto5.uasset'
+[2020.02.08-04.13.27:646][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/lambert1] ([1] browsable assets)...
+[2020.02.08-04.13.27:666][377]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StaticMeshes/Side/New/lambert1.lambert1]
+[2020.02.08-04.13.27:666][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/lambert1]
+[2020.02.08-04.13.27:666][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/lambert1" FILE="D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/lambert1_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.02.08-04.13.27:679][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/lambert1_Auto5073013314E1FE0C84A9B79A21C2C188C.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/lambert1_Auto5.uasset'
+[2020.02.08-04.13.27:680][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Rail_Base] ([1] browsable assets)...
+[2020.02.08-04.13.27:697][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Rail_Base.ArenaSide_Rail_Base]
+[2020.02.08-04.13.27:697][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Rail_Base]
+[2020.02.08-04.13.27:712][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Rail_Base_Auto585C38D5D41BC3A50B3985CAC04A21DD3.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Rail_Base_Auto5.uasset'
+[2020.02.08-04.13.27:713][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Repair_Station1] ([1] browsable assets)...
+[2020.02.08-04.13.27:731][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Repair_Station1.ArenaSide_Repair_Station1]
+[2020.02.08-04.13.27:731][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Repair_Station1]
+[2020.02.08-04.13.27:750][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Repair_Station1_Auto578DCC33043BCD6EAE86B5280FF7325E9.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Repair_Station1_Auto5.uasset'
+[2020.02.08-04.13.27:751][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Repair_Area] ([1] browsable assets)...
+[2020.02.08-04.13.27:768][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Repair_Area.ArenaSide_Repair_Area]
+[2020.02.08-04.13.27:768][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Repair_Area]
+[2020.02.08-04.13.27:782][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Repair_Area_Auto5BFE0851545E1190BFDF8FBAFBD9BEE07.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Repair_Area_Auto5.uasset'
+[2020.02.08-04.13.27:782][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Bumper1] ([1] browsable assets)...
+[2020.02.08-04.13.27:799][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Bumper1.ArenaSide_Bumper1]
+[2020.02.08-04.13.27:799][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Bumper1]
+[2020.02.08-04.13.27:812][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Bumper1_Auto57CE6BDD945A067D3BB83308219C7A009.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Bumper1_Auto5.uasset'
+[2020.02.08-04.13.27:813][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Bumper2] ([1] browsable assets)...
+[2020.02.08-04.13.27:830][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Bumper2.ArenaSide_Bumper2]
+[2020.02.08-04.13.27:830][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Bumper2]
+[2020.02.08-04.13.27:844][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Bumper2_Auto580CF308645451A274418F7A0BDFC4C2B.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Bumper2_Auto5.uasset'
+[2020.02.08-04.13.27:844][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Bumper_3] ([1] browsable assets)...
+[2020.02.08-04.13.27:862][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Bumper_3.ArenaSide_Bumper_3]
+[2020.02.08-04.13.27:862][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Bumper_3]
+[2020.02.08-04.13.27:877][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Bumper_3_Auto5B56DEBB74352CB85BF2A628E8A9A4C01.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Bumper_3_Auto5.uasset'
+[2020.02.08-04.13.27:878][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Center] ([1] browsable assets)...
+[2020.02.08-04.13.27:895][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Road_Center.ArenaSide_Road_Center]
+[2020.02.08-04.13.27:895][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Center]
+[2020.02.08-04.13.27:909][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Center_Auto5B8A3DB2E4FE1EAE9941D99963828D8CD.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Auto5.uasset'
+[2020.02.08-04.13.27:909][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall1] ([1] browsable assets)...
+[2020.02.08-04.13.27:927][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall1.ArenaSide_Road_Center_Wall1]
+[2020.02.08-04.13.27:927][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall1]
+[2020.02.08-04.13.27:941][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Center_Wall1_AutoFE3016BC447D56C07E4A009777051862.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall1_Auto5.uasset'
+[2020.02.08-04.13.27:942][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall2] ([1] browsable assets)...
+[2020.02.08-04.13.27:960][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall2.ArenaSide_Road_Center_Wall2]
+[2020.02.08-04.13.27:960][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall2]
+[2020.02.08-04.13.27:975][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Center_Wall2_Auto9D01CFB54796B5E3DB8D93BC82BDCB06.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall2_Auto5.uasset'
+[2020.02.08-04.13.27:975][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Resource_Station_2] ([1] browsable assets)...
+[2020.02.08-04.13.27:993][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Resource_Station_2.ArenaSide_Resource_Station_2]
+[2020.02.08-04.13.27:993][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Resource_Station_2]
+[2020.02.08-04.13.28:007][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Resource_Station_2_Aut232702E243AA3A93B36494B2097BFFC6.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Resource_Station_2_Auto5.uasset'
+[2020.02.08-04.13.28:008][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_RoadSlice] ([1] browsable assets)...
+[2020.02.08-04.13.28:025][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_RoadSlice.ArenaSide_RoadSlice]
+[2020.02.08-04.13.28:025][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_RoadSlice]
+[2020.02.08-04.13.28:039][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_RoadSlice_Auto5146765E141C849D7A3204A91C7E1A62E.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_RoadSlice_Auto5.uasset'
+[2020.02.08-04.13.28:040][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Ramp] ([1] browsable assets)...
+[2020.02.08-04.13.28:058][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Ramp.ArenaSide_Road_Top_Ramp]
+[2020.02.08-04.13.28:058][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Ramp]
+[2020.02.08-04.13.28:071][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top_Ramp_Auto53828A1204C7D4BB0D9490593264C74AC.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Ramp_Auto5.uasset'
+[2020.02.08-04.13.28:072][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Top1] ([1] browsable assets)...
+[2020.02.08-04.13.28:089][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Road_Top1.ArenaSide_Road_Top1]
+[2020.02.08-04.13.28:090][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Top1]
+[2020.02.08-04.13.28:105][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top1_Auto54820135C49125DBDD16601B55CB2AEB7.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Road_Top1_Auto5.uasset'
+[2020.02.08-04.13.28:105][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Top2] ([1] browsable assets)...
+[2020.02.08-04.13.28:123][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Road_Top2.ArenaSide_Road_Top2]
+[2020.02.08-04.13.28:123][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Top2]
+[2020.02.08-04.13.28:137][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top2_Auto5799A202741F7D0A7764F23ABF878E7EF.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Road_Top2_Auto5.uasset'
+[2020.02.08-04.13.28:138][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Bounds] ([1] browsable assets)...
+[2020.02.08-04.13.28:155][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Bounds.ArenaSide_Road_Top_Bounds]
+[2020.02.08-04.13.28:155][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Bounds]
+[2020.02.08-04.13.28:172][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top_Bounds_Auto57D9489B84D30AD9FF0CF779BF8766257.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Bounds_Auto5.uasset'
+[2020.02.08-04.13.28:173][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Edge] ([1] browsable assets)...
+[2020.02.08-04.13.28:191][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Edge.ArenaSide_Road_Top_Edge]
+[2020.02.08-04.13.28:191][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Edge]
+[2020.02.08-04.13.28:205][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top_Edge_Auto5E6AF7B904E0933B007BD449128337453.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Edge_Auto5.uasset'
+[2020.02.08-04.13.28:206][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Helipad] ([1] browsable assets)...
+[2020.02.08-04.13.28:223][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Helipad.ArenaSide_Helipad]
+[2020.02.08-04.13.28:223][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Helipad]
+[2020.02.08-04.13.28:240][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Helipad_Auto5DC2FDB84478094F02D726B829558E931.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Helipad_Auto5.uasset'
+[2020.02.08-04.13.28:240][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Outpost_Platform] ([1] browsable assets)...
+[2020.02.08-04.13.28:257][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Outpost_Platform.ArenaSide_Outpost_Platform]
+[2020.02.08-04.13.28:257][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Outpost_Platform]
+[2020.02.08-04.13.28:270][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Outpost_Platform_Auto57612EBE14376E3893C5B41806D34A188.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Outpost_Platform_Auto5.uasset'
+[2020.02.08-04.13.28:271][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom] ([1] browsable assets)...
+[2020.02.08-04.13.28:291][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom.ArenaSide_Road_Bottom]
+[2020.02.08-04.13.28:291][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom]
+[2020.02.08-04.13.28:307][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Bottom_Auto59432376143B9C99056D22FA96206FEDA.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Auto5.uasset'
+[2020.02.08-04.13.28:307][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall] ([1] browsable assets)...
+[2020.02.08-04.13.28:325][377]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall.ArenaSide_Road_Bottom_Wall]
+[2020.02.08-04.13.28:325][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall]
+[2020.02.08-04.13.28:340][377]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Bottom_Wall_Auto5460536AF4FDA411D4B6A48ACF93E8152.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Saved/Autosaves/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall_Auto5.uasset'
+[2020.02.08-04.13.28:341][377]LogFileHelpers: Auto-saving content packages took 0.804
+[2020.02.08-04.13.44:799][656]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2020.02.08-04.13.44:799][656]LogWindows: File 'libalias_api.dll' does not exist
+[2020.02.08-04.13.44:801][656]LogEditorFactories: Performing atomic reimport of [D:/Projects/Repos/Robomaster/UE4/Import/ArenaSide.fbx]
+[2020.02.08-04.13.44:846][656]LogFbx: Loading FBX Scene from D:/Projects/Repos/Robomaster/UE4/Import/ArenaSide.fbx
+[2020.02.08-04.13.44:859][656]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.08-04.13.44:862][656]LogFbx: Display: Triangulating static mesh Helipad
+[2020.02.08-04.13.44:909][656]LogStaticMesh: Building static mesh ArenaSide_Helipad...
+[2020.02.08-04.13.44:915][656]LogStaticMesh: Built static mesh [0.01s] /Game/StaticMeshes/Side/New/ArenaSide_Helipad.ArenaSide_Helipad
+[2020.02.08-04.13.44:917][656]LogStaticMesh: Warning: ArenaSide_Helipad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.08-04.13.44:917][656]LogStaticMesh: Warning: ArenaSide_Helipad has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.02.08-04.13.44:918][656]LogStaticMesh: Warning: ArenaSide_Helipad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.08-04.13.44:932][656]LogEditorFactories: -- imported successfully
+[2020.02.08-04.13.44:935][656]FBXImport: Warning: ArenaSide_Helipad has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.08-04.13.44:935][656]FBXImport: Warning: ArenaSide_Helipad has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.02.08-04.13.44:935][656]FBXImport: Warning: ArenaSide_Helipad has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.08-04.13.48:732][804]LogSlate: Window 'Message Log' being destroyed
+[2020.02.08-04.13.48:759][804]LogSlate: Window 'Message Log' being destroyed
+[2020.02.08-04.13.49:364][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Bumper2" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Bumper2.uasset" SILENT=true
+[2020.02.08-04.13.49:375][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Bumper2D3A4450F49C40215B9BF018EC9DCF03B.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Bumper2.uasset'
+[2020.02.08-04.13.49:404][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Bottom_Bounds7D21D3E34BD1A7D4FF589695B87AA76C.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Bounds.uasset'
+[2020.02.08-04.13.49:418][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall2" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall2.uasset" SILENT=true
+[2020.02.08-04.13.49:430][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Bottom_Wall2F8D99B1048B0B0966ABDD8A38C036DFD.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall2.uasset'
+[2020.02.08-04.13.49:445][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall.uasset" SILENT=true
+[2020.02.08-04.13.49:453][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Bottom_Wall69645CC94EC15E8628C7C89D4C43EA9C.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Bottom_Wall.uasset'
+[2020.02.08-04.13.49:476][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Road_Bottom" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Bottom.uasset" SILENT=true
+[2020.02.08-04.13.49:486][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_BottomB8AA7E354C89754EDE03289D56B8005E.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Bottom.uasset'
+[2020.02.08-04.13.49:592][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Outpost_Platform" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Outpost_Platform.uasset" SILENT=true
+[2020.02.08-04.13.49:600][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Outpost_PlatformFDCF067A43947E65A0219B958FD69640.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Outpost_Platform.uasset'
+[2020.02.08-04.13.49:670][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Helipad" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Helipad.uasset" SILENT=true
+[2020.02.08-04.13.49:691][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_HelipadD0D328224E119D01CBD32B9ED671F309.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Helipad.uasset'
+[2020.02.08-04.13.49:702][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Edge" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Top_Edge.uasset" SILENT=true
+[2020.02.08-04.13.49:714][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top_EdgeC1956BA748A829083E76CE957E8C18AD.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Top_Edge.uasset'
+[2020.02.08-04.13.49:743][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Bounds" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Top_Bounds.uasset" SILENT=true
+[2020.02.08-04.13.49:753][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top_Bounds56CB6FBE4B7BA7772919DD847D3C471D.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Top_Bounds.uasset'
+[2020.02.08-04.13.49:791][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Road_Top2" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Top2.uasset" SILENT=true
+[2020.02.08-04.13.49:799][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top26BC1B10C45A3CC827E40488004A6C8F4.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Top2.uasset'
+[2020.02.08-04.13.49:842][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Road_Top1" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Top1.uasset" SILENT=true
+[2020.02.08-04.13.49:851][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top19889A4024113A517B5AC9EAA9B2320A5.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Top1.uasset'
+[2020.02.08-04.13.49:892][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Road_Top_Ramp" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Top_Ramp.uasset" SILENT=true
+[2020.02.08-04.13.49:900][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top_Ramp9CCF6EE2466B7A2A6E80E38FCD1BD8B8.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Top_Ramp.uasset'
+[2020.02.08-04.13.49:944][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_RoadSlice" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_RoadSlice.uasset" SILENT=true
+[2020.02.08-04.13.49:952][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_RoadSliceD1968CC6487AE5F13FC1A8AC8040E578.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_RoadSlice.uasset'
+[2020.02.08-04.13.49:999][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Resource_Station_24039260744853C6DD316F0978091B5EE.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Resource_Station_2.uasset'
+[2020.02.08-04.13.50:041][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall2" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall2.uasset" SILENT=true
+[2020.02.08-04.13.50:051][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Center_Wall2BE4EDEF84D5C62028BEAA18814BBA6B0.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall2.uasset'
+[2020.02.08-04.13.50:091][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall1" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall1.uasset" SILENT=true
+[2020.02.08-04.13.50:099][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Center_Wall1158A25124061FEFAC057159E2E2B8B6F.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Center_Wall1.uasset'
+[2020.02.08-04.13.50:142][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Road_Center" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Center.uasset" SILENT=true
+[2020.02.08-04.13.50:150][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Center6FC08A6243C8A90915B6BE99EECDD83E.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Road_Center.uasset'
+[2020.02.08-04.13.50:191][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Bumper_3" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Bumper_3.uasset" SILENT=true
+[2020.02.08-04.13.50:200][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Bumper_3584FBFB4415D375DD68D8A9AB205E5A2.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Bumper_3.uasset'
+[2020.02.08-04.13.50:243][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Bumper1" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Bumper1.uasset" SILENT=true
+[2020.02.08-04.13.50:252][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Bumper1124C77004D0D1E855F9BF0BB0A1CC592.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Bumper1.uasset'
+[2020.02.08-04.13.50:292][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Repair_Area" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Repair_Area.uasset" SILENT=true
+[2020.02.08-04.13.50:301][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Repair_AreaCDCB2D5B433CE57772384DA39DE7B7F4.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Repair_Area.uasset'
+[2020.02.08-04.13.50:342][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Repair_Station1" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Repair_Station1.uasset" SILENT=true
+[2020.02.08-04.13.50:355][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Repair_Station1EB42EF7445A4682C7790DABE9C8C273B.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Repair_Station1.uasset'
+[2020.02.08-04.13.50:391][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Rail_Base" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Rail_Base.uasset" SILENT=true
+[2020.02.08-04.13.50:400][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Rail_Base8BB7854847FA6913A41D1388873B20B0.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Rail_Base.uasset'
+[2020.02.08-04.13.50:441][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/lambert1" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/lambert1.uasset" SILENT=true
+[2020.02.08-04.13.50:448][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/lambert1D7DFF59F46879D093A2A7B9EAA25613C.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/lambert1.uasset'
+[2020.02.08-04.13.50:491][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/New/ArenaSide_Rail1" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Rail1.uasset" SILENT=true
+[2020.02.08-04.13.50:499][832]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Rail10F51E10E44B90702CCBB169EBEEBD6CE.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/New/ArenaSide_Rail1.uasset'
+[2020.02.08-04.13.54:616][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.02.08-04.14.05:484][994]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.14.05:489][994]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.14.05:503][994]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.08-04.14.06:437][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.02.08-04.14.07:994][994]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.14.08:028][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.14.08:080][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.02.08-04.14.08:260][994]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaA8AA04E24E3B4BEC749F37BE48C0A7A4.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.14.08:290][994]LogFileHelpers: Saving map 'Arena' took 0.261
+[2020.02.08-04.14.08:294][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Bumper_3" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Bumper_3.uasset" SILENT=true
+[2020.02.08-04.14.08:307][994]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Bumper_3395C5DB44B98FF4DED8932B3A9D8C753.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Bumper_3.uasset'
+[2020.02.08-04.14.09:663][ 39]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2020.02.08-04.14.09:663][ 39]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2020.02.08-04.14.13:810][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.14.14:740][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.02.08-04.14.22:054][264]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.14.22:060][264]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.14.22:525][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.02.08-04.14.24:121][264]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.14.24:162][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.14.24:193][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.02.08-04.14.24:342][264]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena025FE08D4B277B173274A79956E20880.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.14.24:369][264]LogFileHelpers: Saving map 'Arena' took 0.208
+[2020.02.08-04.14.24:373][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Bumper1" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Bumper1.uasset" SILENT=true
+[2020.02.08-04.14.24:391][264]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Bumper1C0A358034F1D295AF4B9E3B2C580262B.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Bumper1.uasset'
+[2020.02.08-04.14.26:892][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.02.08-04.14.32:878][356]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.14.32:882][356]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.14.33:296][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.08-04.14.34:710][356]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.14.34:751][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.14.34:776][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.02.08-04.14.34:923][356]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaDE99B97E40525405CC51F18D411F0D68.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.14.34:954][356]LogFileHelpers: Saving map 'Arena' took 0.203
+[2020.02.08-04.14.34:956][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Bumper2" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Bumper2.uasset" SILENT=true
+[2020.02.08-04.14.34:970][356]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Bumper23A64F5BF47DF5EAA2F7C4AB3A4CB62F1.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Bumper2.uasset'
+[2020.02.08-04.14.36:873][408]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2020.02.08-04.14.41:796][408]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.14.41:801][408]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.14.42:201][408]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.02.08-04.14.42:874][408]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.14.42:907][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.14.42:935][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.02.08-04.14.43:083][408]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaCC1304FC42E590C252DDC5975E8B4E42.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.14.43:108][408]LogFileHelpers: Saving map 'Arena' took 0.202
+[2020.02.08-04.14.43:111][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Helipad" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Helipad.uasset" SILENT=true
+[2020.02.08-04.14.43:128][408]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Helipad32EF723943C286DB7D11AD95C0AA9F8C.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Helipad.uasset'
+[2020.02.08-04.14.46:560][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.02.08-04.14.51:300][550]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.14.51:305][550]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.14.51:739][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.02.08-04.14.55:618][550]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.14.55:673][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.14.55:704][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.08-04.14.55:874][550]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena1892D78948226906CD510D8CC90C0862.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.14.55:902][550]LogFileHelpers: Saving map 'Arena' took 0.229
+[2020.02.08-04.14.55:911][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Outpost_Platform" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Outpost_Platform.uasset" SILENT=true
+[2020.02.08-04.14.55:926][550]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Outpost_PlatformC09C22354ABAAC72D5819DBEF88C0EB9.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Outpost_Platform.uasset'
+[2020.02.08-04.14.58:840][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.08-04.15.06:263][663]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.15.06:269][663]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.15.06:719][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.02.08-04.15.07:640][663]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.15.07:685][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.15.07:718][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.08-04.15.07:889][663]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaEBFB74334C40F401AB8E5580F8EB924C.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.15.07:924][663]LogFileHelpers: Saving map 'Arena' took 0.240
+[2020.02.08-04.15.07:932][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Rail" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Rail.uasset" SILENT=true
+[2020.02.08-04.15.07:948][663]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_RailE5830C484BD57477A91B4185197475F5.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Rail.uasset'
+[2020.02.08-04.15.10:460][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.08-04.15.17:609][753]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.15.17:616][753]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.15.18:068][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.08-04.15.18:906][753]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.15.18:946][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.15.18:980][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.02.08-04.15.19:140][753]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaB12D43B442EF6881BDA741831E9DF972.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.15.19:175][753]LogFileHelpers: Saving map 'Arena' took 0.228
+[2020.02.08-04.15.19:179][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Repair_Area" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Repair_Area.uasset" SILENT=true
+[2020.02.08-04.15.19:198][753]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Repair_Area30442729477B4B66CC1A5D953912C83B.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Repair_Area.uasset'
+[2020.02.08-04.15.21:595][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.02.08-04.15.28:317][843]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.15.28:321][843]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.15.28:764][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.02.08-04.15.29:878][843]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.15.29:911][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.15.29:943][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.02.08-04.15.30:096][843]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena70ECC75D495707B9C493D99E2CFDDF81.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.15.30:121][843]LogFileHelpers: Saving map 'Arena' took 0.211
+[2020.02.08-04.15.30:124][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Repair_Station1" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Repair_Station1.uasset" SILENT=true
+[2020.02.08-04.15.30:137][843]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Repair_Station1DD97E6B64B78A546C8F28BA138383F22.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Repair_Station1.uasset'
+[2020.02.08-04.15.32:678][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.08-04.15.39:619][937]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.15.39:624][937]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.15.40:085][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.02.08-04.15.41:172][937]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.15.41:215][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.15.41:248][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.08-04.15.41:420][937]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena12BDA1044FB66ABE698218A04B7E65CB.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.15.41:451][937]LogFileHelpers: Saving map 'Arena' took 0.235
+[2020.02.08-04.15.41:455][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Road_Bottom" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Bottom.uasset" SILENT=true
+[2020.02.08-04.15.41:471][937]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_BottomFAAD654A4E442DD3FF98049CB0C9A2EF.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Bottom.uasset'
+[2020.02.08-04.15.43:479][995]LogUObjectHash: Compacting FUObjectHashTables data took   8.13ms
+[2020.02.08-04.15.51:321][995]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.15.51:326][995]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.15.51:812][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.02.08-04.15.53:137][995]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.15.53:179][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.15.53:210][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.02.08-04.15.53:392][995]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena4675E458430C164D57E4498AFC891C28.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.15.53:420][995]LogFileHelpers: Saving map 'Arena' took 0.242
+[2020.02.08-04.15.53:424][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Road_Bottom_Bounds" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Bottom_Bounds.uasset" SILENT=true
+[2020.02.08-04.15.53:438][995]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Bottom_Bounds4C3E25954A7A1DB08E0DDBA941D0E688.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Bottom_Bounds.uasset'
+[2020.02.08-04.15.54:988][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.02.08-04.16.04:164][ 42]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.16.04:169][ 42]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.16.04:658][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.08-04.16.05:969][ 42]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.16.06:014][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.16.06:046][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.08-04.16.06:228][ 42]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena68C08AC748E08C0237BF29857641C41B.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.16.06:255][ 42]LogFileHelpers: Saving map 'Arena' took 0.242
+[2020.02.08-04.16.06:258][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Road_Bottom_Wall" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Bottom_Wall.uasset" SILENT=true
+[2020.02.08-04.16.06:273][ 42]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Bottom_Wall942369CF4DC427FAB2B889953A64DDFC.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Bottom_Wall.uasset'
+[2020.02.08-04.16.34:047][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.02.08-04.16.40:841][184]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.16.40:847][184]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.16.41:355][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.08-04.16.42:583][184]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.16.42:619][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.16.42:655][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.08-04.16.42:826][184]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaD75D89C542A51F3671CE31B55136B8FE.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.16.42:854][184]LogFileHelpers: Saving map 'Arena' took 0.236
+[2020.02.08-04.16.42:857][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Road_Bottom_Wall2" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Bottom_Wall2.uasset" SILENT=true
+[2020.02.08-04.16.42:871][184]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Bottom_Wall2D269BA36447125E2500218B1EC9C709C.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Bottom_Wall2.uasset'
+[2020.02.08-04.16.44:362][232]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.02.08-04.16.50:465][232]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.16.50:471][232]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.16.50:971][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.02.08-04.16.52:274][232]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.16.52:314][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.16.52:351][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.08-04.16.52:521][232]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena7391124F4104811758E17582D475C188.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.16.52:553][232]LogFileHelpers: Saving map 'Arena' took 0.238
+[2020.02.08-04.16.52:556][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Road_Center" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Center.uasset" SILENT=true
+[2020.02.08-04.16.52:571][232]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Center187838C54F80ACB0763CE28F7DE86DEC.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Center.uasset'
+[2020.02.08-04.16.54:473][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.02.08-04.17.03:066][290]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.17.03:070][290]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.17.03:540][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.08-04.17.04:466][290]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.17.04:507][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.17.04:537][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.02.08-04.17.04:724][290]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena5A79F18B4016BDDC5E2E03B88B7C31BB.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.17.04:753][290]LogFileHelpers: Saving map 'Arena' took 0.246
+[2020.02.08-04.17.04:763][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Road_Center_Wall1" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Center_Wall1.uasset" SILENT=true
+[2020.02.08-04.17.04:780][290]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Center_Wall1744B46234B4EAB106B1FF5B6FA840F78.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Center_Wall1.uasset'
+[2020.02.08-04.17.06:077][331]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.02.08-04.17.13:858][331]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.17.13:865][331]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.17.14:391][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.08-04.17.15:582][331]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.17.15:621][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.17.15:651][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.08-04.17.15:820][331]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena6F0CEFA144B6F1966FAAE7AAC844C807.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.17.15:853][331]LogFileHelpers: Saving map 'Arena' took 0.231
+[2020.02.08-04.17.15:856][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Road_Center_Wall2" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Center_Wall2.uasset" SILENT=true
+[2020.02.08-04.17.15:871][331]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Center_Wall2B22023BF45B3A54CB673A6930918C4B4.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Center_Wall2.uasset'
+[2020.02.08-04.17.17:655][398]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.02.08-04.17.42:585][398]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.17.42:591][398]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.17.43:050][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.02.08-04.17.44:288][398]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.17.44:331][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.17.44:364][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.08-04.17.44:538][398]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena7AD4CC6F4D048FAEF3B5AA98DD03A32C.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.17.44:561][398]LogFileHelpers: Saving map 'Arena' took 0.230
+[2020.02.08-04.17.44:565][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Road_Outside_Ramp" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Outside_Ramp.uasset" SILENT=true
+[2020.02.08-04.17.44:580][398]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Outside_Ramp19DD6AF846FB091A925368A033D1003B.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Outside_Ramp.uasset'
+[2020.02.08-04.17.46:736][478]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2020.02.08-04.17.52:547][478]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.17.52:551][478]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.17.53:061][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.08-04.21.07:631][478]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.21.07:695][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.21.07:737][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.02.08-04.21.07:926][478]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena65291E1843B6F3788B9C4A9B83E7F87E.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.21.07:955][478]LogFileHelpers: Saving map 'Arena' took 0.261
+[2020.02.08-04.21.07:958][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Road_Top1" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Top1.uasset" SILENT=true
+[2020.02.08-04.21.07:974][478]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top14D6E9A7C4F042FF0DFEF3C9490FE608A.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Top1.uasset'
+[2020.02.08-04.22.37:295][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.02.08-04.22.42:425][ 81]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.22.42:430][ 81]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.22.42:914][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.08-04.22.43:768][ 81]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.22.43:819][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.22.43:851][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.02.08-04.22.44:018][ 81]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena08F50B86467EC130621F1592E9A24F72.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.22.44:046][ 81]LogFileHelpers: Saving map 'Arena' took 0.228
+[2020.02.08-04.22.44:052][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Road_Top2" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Top2.uasset" SILENT=true
+[2020.02.08-04.22.44:071][ 81]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top2D24712BB41A7B8B664F707A33A2B2B6E.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Top2.uasset'
+[2020.02.08-04.22.45:576][133]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.02.08-04.22.51:810][133]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.22.51:819][133]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.22.52:294][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.02.08-04.22.53:324][133]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.22.53:366][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.22.53:397][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.02.08-04.22.53:581][133]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaCAFED9BE4013BCBEA7192FA143B428EC.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.22.53:611][133]LogFileHelpers: Saving map 'Arena' took 0.245
+[2020.02.08-04.22.53:614][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Road_Top_Bounds" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Top_Bounds.uasset" SILENT=true
+[2020.02.08-04.22.53:629][133]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top_Bounds7AE24F284CD029AC5769DBA343F794BF.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Top_Bounds.uasset'
+[2020.02.08-04.22.58:679][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.02.08-04.23.03:056][356]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.23.03:062][356]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.23.03:551][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.02.08-04.23.04:776][356]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.23.04:824][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.23.04:850][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.02.08-04.23.05:026][356]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/Arena467C1E384BD3AAC00319C2A41A1F0B3F.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.23.05:055][356]LogFileHelpers: Saving map 'Arena' took 0.232
+[2020.02.08-04.23.05:066][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_Road_Top_Edge" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Top_Edge.uasset" SILENT=true
+[2020.02.08-04.23.05:080][356]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_Road_Top_Edge2B374E6B475AA18AF65ECBABD15D9888.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_Road_Top_Edge.uasset'
+[2020.02.08-04.23.06:865][416]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.02.08-04.23.12:583][416]LogSlate: Window 'Replace References?' being destroyed
+[2020.02.08-04.23.12:590][416]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.08-04.23.13:081][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.08-04.23.13:913][416]LogSlate: Window 'Save Content' being destroyed
+[2020.02.08-04.23.13:958][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.08-04.23.13:989][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.02.08-04.23.14:163][416]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaAFC870154601966003CAE1ABE572820B.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/Arena.umap'
+[2020.02.08-04.23.14:191][416]LogFileHelpers: Saving map 'Arena' took 0.235
+[2020.02.08-04.23.14:201][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Side/ArenaSide_RoadSlice" FILE="D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_RoadSlice.uasset" SILENT=true
+[2020.02.08-04.23.14:219][416]LogSavePackage: Moving 'D:/Projects/Repos/Robomaster/UE4/Saved/ArenaSide_RoadSlice4765837D4B3F22D585B017A141452555.tmp' to 'D:/Projects/Repos/Robomaster/UE4/Content/StaticMeshes/Side/ArenaSide_RoadSlice.uasset'
+[2020.02.08-04.23.22:698][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.02.08-04.23.24:233][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-04.23.30:307][ 74]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.08-04.23.31:683][ 74]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.375 s
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: 
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: Cannot remove redirection from /Game/StaticMeshes/Side/ArenaSide_Bumper_3.ArenaSide_Bumper_3, it was not registered
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: Stack: 
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffbbb281b1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffbb7ce31a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffe02f028d UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffb9eb09b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffb9ee52b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffa33045cd UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffa32ba8aa UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffa331a280 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff9a4a7840 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff9a61e788 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff9a619a8f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff9a61d072 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff9a4719d0 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff9a471b1e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffc7f19d2f UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffc7f20310 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffc7efc534 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffc7f958b8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffc7fb14b1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffc7f21ca5 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffc7df5231 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffc7e7b4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffc7e652e8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffc7e59c91 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffe1c84e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffe1c726df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffe1c87340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffe1c6edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff82c615b6d USER32.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff82c615562 USER32.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007fffe1c888e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.08-04.23.31:683][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff6401b6980 UE4Editor.exe!UnknownFunction []
+[2020.02.08-04.23.31:684][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff6401ca91c UE4Editor.exe!UnknownFunction []
+[2020.02.08-04.23.31:684][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff6401ca9fa UE4Editor.exe!UnknownFunction []
+[2020.02.08-04.23.31:684][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff6401db92c UE4Editor.exe!UnknownFunction []
+[2020.02.08-04.23.31:684][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff6401de60e UE4Editor.exe!UnknownFunction []
+[2020.02.08-04.23.31:684][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff82ae67bd4 KERNEL32.DLL!UnknownFunction []
+[2020.02.08-04.23.31:684][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff82c84ced1 ntdll.dll!UnknownFunction []
+[2020.02.08-04.23.31:684][ 74]LogOutputDevice: Error: 
+[2020.02.08-04.23.31:693][ 74]LogStats:                SubmitErrorReport -  0.000 s
